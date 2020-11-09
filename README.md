@@ -13,4 +13,4 @@ Before we start off with building a CNN model for image classification using PyT
 
 *The following CNN architecture has been used. 
 
-
+<img width="962" alt="Screen Shot 2020-11-08 at 11 59 04 PM" src="https://user-images.githubusercontent.com/56598403/98508638-d194e180-222d-11eb-9bce-d993ec4bea30.png">
