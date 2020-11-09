@@ -5,10 +5,12 @@ Before we start off with building a CNN model for image classification using PyT
 
 *the .ipynb file which has the pytorch code has been made quite explanatory with the underlying assumption that reader has knowledge of concepts like convolution, pooling,full connected layers, dropout etc. Hence, here are a few highlights about this article: 
 
-Dataset API under torchvision has not been used. Instead, data has been loaded on google drive and a custom function has been built to pull dataset into a google collab environment. 
+->Dataset API under torchvision has not been used. Instead, data has been loaded on google drive and a custom function has been built to pull dataset into a google collab environment. 
 
-Again Dataset APIs have not been used for MNIST data transformations like Rescaling. Custom functionality has been added. 
+->Again Dataset APIs have not been used for MNIST data transformations like Rescaling. Custom functionality has been added. 
 
-Scope of Improvement: Hyperparameters like optimizer, learning rate can be changed. Besides,normalization transformation too can be applied which is not implemented above. 
+->Scope of Improvement: Hyperparameters like optimizer, learning rate can be changed. Besides,normalization transformation too can be applied which is not implemented above. 
 
 *The following CNN architecture has been used. 
+
+
