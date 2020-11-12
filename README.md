@@ -1,5 +1,6 @@
 # Image_Classification_CNN_PyTorch
 MNIST handwritten digits dataset 
+* one can download the dataset from http://yann.lecun.com/exdb/mnist/
 
 Before we start off with building a CNN model for image classification using PyTorch, here is a brief description of MNIST handwritten digits dataset. We have handwritten digits collected from various scanned documents and similar sources with each image being 28 by 28 pixel square. The challenge is to classify those handwritten digits into either of 10 digit classes - 0 to 9. Training set has 60000 images and testing set has 10000 images. 
 
